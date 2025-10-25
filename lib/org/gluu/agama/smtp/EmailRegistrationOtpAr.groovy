@@ -28,8 +28,8 @@ class EmailRegistrationOtpAr {
                     <tr>
                       <td style="padding:45px;font-family:'Nunito Sans',Helvetica,Arial,sans-serif;color:#51545E;font-size:16px;line-height:1.625;">
                         <p dir="rtl">مرحبًا،</p>
-                        <p>لقد تلقّينا طلبًا لإعادة تعيين كلمة المرور لحسابك في Phi Wallet.</p>
-                        <p>للمتابعة، يرجى إدخال رمز التحقق التالي:</p>
+                        <p>يرجى إدخال الرمز المكوّن من 6 أرقام أدناه للتحقق من عنوان بريدك الإلكتروني.</p>
+                        
 
                         <div style="text-align:center;margin:30px 0;">
                           <div style="display:inline-block;background-color:#f5f5f5;color:#AD9269;font-size:40px;font-weight:600;letter-spacing:6px;padding:10px 20px;border-radius:4px;">
@@ -37,8 +37,8 @@ class EmailRegistrationOtpAr {
                           </div>
                         </div>
 
-                        <p>إذا لم تطلب هذا الإجراء، يمكنك تجاهل هذه الرسالة بأمان. سيبقى حسابك آمِنًا.</p>
-                        <p>شكرًا لثقتك بنا.</p>
+                        <p>إذا لم تطلب هذا الإجراء، يمكنك تجاهل هذه الرسالة بأمان، وسيظل حسابك محميًا.</p>
+                       <p>شكرًا لثقتك بنا.</p>
 
                         <p style="margin-top:30px;">مع التحية،<br>فريق Phi Wallet</p>
 
