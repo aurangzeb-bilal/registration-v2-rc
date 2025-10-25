@@ -86,8 +86,9 @@ class EmailRegistrationOtpId {
 """;
 
         return Map.of(
-            "subject", "Kode Verifikasi - Phi Walletl",
+            "subject", "Kode Verifikasi - Phi Wallet",
             "body", html
         );
     }
 }
+
